@@ -566,10 +566,7 @@ input#mc-embedded-subscribe {
 	margin: 10px 5px 5px;
 	z-index: 999;
 }
-#sponsors .partners img {
-	max-height: 200px;
-	height: auto;
-}
+
 canvas.pg-canvas {
 background-color: /*#3f2743*/;
 /*background-color: #171b24;*/
@@ -585,9 +582,12 @@ z-index: -99;
 #sponsors .partners img:hover {
 	background-color: transparent;
 }
-.helpers, .partners, .cooler_helpers{
+.helpers, .partners {
 	margin-right: auto;
 	margin-left: auto;
+	text-align: center;
+}
+.cooler_helpers {
 	text-align: center;
 }
 .partners {
@@ -601,9 +601,7 @@ z-index: -99;
 .partners a img:hover{
 	background-color: rgba(255, 255, 255, 0);
 }
-.cooler_helpers img {
-	background-color: rgba(40, 47, 58, 0.63);	width: 28%;
-}
+
 .helpers a img{
 	background-color: rgba(29, 34, 42, 0.63);
 	width: 23%;
@@ -652,9 +650,6 @@ z-index: -99;
 	}
 	#about .side-image img {
 		height: 300px;
-	}
-	.cooler_helpers img {
-	width: 24%;
 	}
 }
 @media screen and (min-width:751px){
