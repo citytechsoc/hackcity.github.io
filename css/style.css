@@ -331,7 +331,7 @@ display: block;
 #signup-form input[type="text"], #signup-form input[type="email"] {
 	float: right;
 	box-sizing: border-box;
-	height: 2.4em;
+	height: 1.4em;
 	border: none;
 	padding: 10px;
 	width: 250px;
