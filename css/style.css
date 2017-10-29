@@ -320,9 +320,9 @@ display: block;
 
 #signup-form {
 	background-color: #2D85C7;
-    color: #000000;
+    color: #ffffff;
 	width: 420px; /* Blaze it */
-	height: 600px;
+	height: 450px;
 	margin: auto;
 	padding: 1em;
 	box-sizing: border-box;
@@ -331,7 +331,7 @@ display: block;
 #signup-form input[type="text"], #signup-form input[type="email"] {
 	float: right;
 	box-sizing: border-box;
-	height: 1.4em;
+	height: 1.7em;
 	border: none;
 	padding: 10px;
 	width: 250px;
