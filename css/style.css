@@ -189,8 +189,8 @@ display: block;
 	font-weight: 700;
 	padding: 10px 15px;
 	background-color: rgba(255, 255, 255, 0);
-	border: 2px solid #648fd8;
-	color: #648fd8;
+	border: 2px solid #fff;
+	color: #fff;
 	margin-right: 10px;
 	margin-left: 10px;
 }
@@ -198,7 +198,7 @@ display: block;
 .header-button-wrapper button:hover, input[type="submit"]:hover {
 	border: 2px solid #fff;
 	background-color: #2e85c6;
-	color: #2e85c6;
+	color: #fff;
 }
 /* section padding */
 #about, #schedule, #faq, #team, #sponsors, #tickets {
